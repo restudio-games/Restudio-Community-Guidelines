@@ -1,3 +1,3 @@
 Links
 
-- Website: https://restudio-games.github.io/Restudio-Community-Guidelines/
+- Website: https://restudiosoftwarelaboratories.github.io/Restudio-Community-Guidelines/
